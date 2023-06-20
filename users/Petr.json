@@ -1,0 +1,12 @@
+{
+	"Name": "Petr",
+	"Age": 12,
+	"Contact": "7563546",
+	"Company": "Google",
+	"Address": {
+		"City": "san francisco",
+		"State": "california",
+		"Country": "USA",
+		"Pincode": 2354
+	}
+}

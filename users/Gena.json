@@ -1,0 +1,12 @@
+{
+	"Name": "Gena",
+	"Age": 65,
+	"Contact": "4323546",
+	"Company": "Uber",
+	"Address": {
+		"City": "Kyiv",
+		"State": "Kyiv",
+		"Country": "Ukraine",
+		"Pincode": 2354
+	}
+}

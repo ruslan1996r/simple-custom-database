@@ -1,0 +1,12 @@
+{
+	"Name": "Zhora",
+	"Age": 34,
+	"Contact": "798636",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Kyiv",
+		"State": "Kyiv",
+		"Country": "Ukraine",
+		"Pincode": 2354
+	}
+}

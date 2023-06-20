@@ -1,0 +1,12 @@
+{
+	"Name": "Vova",
+	"Age": 43,
+	"Contact": "8923546",
+	"Company": "Amazon",
+	"Address": {
+		"City": "Kyiv",
+		"State": "Kyiv",
+		"Country": "Ukraine",
+		"Pincode": 2354
+	}
+}
